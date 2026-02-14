@@ -1,1 +1,1 @@
-"# configuración staging" 
+# configuración staging
